@@ -16,9 +16,6 @@ DDLC is the process of planning, analyzing, designing, creating, editing, publis
 ![DDLC](https://github.com/BinduChonattil/DXC_Markdown_Bindu/blob/master/DDLC-Phases.jpg)
 
 
-Reference-style: 
-
-
 **2. Adapting a simple, Precise Style of Writing:**
 
 The main objective of Technical writing is to break the complex technical information into simple, clear and easy to understand text. The simpler the details are, the easier it is to comprehend.
