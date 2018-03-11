@@ -1,4 +1,4 @@
-
+﻿
 # TIPS AND TRICKS OF TECHNICAL WRITING
 
 ## OVERVIEW
@@ -13,7 +13,7 @@ To a great extent, the complexity of technical writing abides in the type of dom
 
 DDLC is the process of planning, analyzing, designing, creating, editing, publishing and maintaining a document during the entire product development lifecycle. A comprehensive understanding of the document development Life Cycle can help the writers to analyze the project requirement, plan ahead and thus meet design specifications in the creation of a purposeful document.
 
-![DDLC](https://www.bing.com/images/search?view=detailV2&ccid=WUnsYIoy&id=EEEB325E4C09EED7E78C3331B270D3AEF42E91BB&thid=OIP.WUnsYIoyfbt0YUWNIsGvLQAAAA&mediaurl=https%3a%2f%2fsdr-uk.com%2fwp-content%2fuploads%2f2015%2f03%2flifecycle.gif&exph=235&expw=275&q=Life+Cycle+of+Electronic+Documents&simid=608035502898679323&selectedIndex=26)
+![DDLC](\DXC_Test_Bindu\DDLC-Phases[1].jpg)
 
 
 Reference-style: 
