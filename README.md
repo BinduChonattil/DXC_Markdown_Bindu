@@ -13,7 +13,7 @@ To a great extent, the complexity of technical writing abides in the type of dom
 
 DDLC is the process of planning, analyzing, designing, creating, editing, publishing and maintaining a document during the entire product development lifecycle. A comprehensive understanding of the document development Life Cycle can help the writers to analyze the project requirement, plan ahead and thus meet design specifications in the creation of a purposeful document.
 
-![DDLC](\DXC_Test_Bindu\DDLC-Phases[1].jpg)
+![DDLC](DDLC-Phases[1].jpg)
 
 
 Reference-style: 
